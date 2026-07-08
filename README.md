@@ -7,8 +7,9 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/romulofs/)
 - 😄 Pronouns: (Ele/Dele,He/Him)
 - ⚡ Currently Reading:
-Engenharia de Software para Cientistas de Dados,
-Algorithms In A Nutshell,
+- 💻 I use arch-linux btw.
+
+
 O Mundo de Sofia,
 The Pragmatic Programmer
 and Fundaments of Data Engineering.
