@@ -6,9 +6,8 @@
 - 👯 I’m looking to collaborate on Anything message me.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/romulofs/)
 - 😄 Pronouns: (Ele/Dele,He/Him)
-- ⚡ Currently Reading:
 - 💻 I use arch-linux btw.
-
+- ⚡ Currently Reading:
 
 O Mundo de Sofia,
 The Pragmatic Programmer
