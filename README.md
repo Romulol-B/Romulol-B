@@ -9,9 +9,12 @@
 - 💻 I use arch-linux btw.
 - ⚡ Currently Reading:
 
-The Pragmatic Programmer
-Learning Go
+-The Pragmatic Programmer
+-Learning Go
+\n
 I am also on boot.dev:
+
+
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/753e8a74-f98a-4f20-a7e9-68f36ec55273/thumbnail" >
 </p>
