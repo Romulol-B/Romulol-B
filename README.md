@@ -7,12 +7,7 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/romulofs/)
 - 😄 Pronouns: (Ele/Dele,He/Him)
 - 💻 I use arch-linux btw.
-- ⚡ Currently Reading:
-
--The Pragmatic Programmer
--Learning Go
-\n
-I am also on boot.dev:
+- I am also on boot.dev:
 
 
 <p align="left">
